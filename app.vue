@@ -1,10 +1,10 @@
 <template>
   <div>
-    <!-- <TheNavbar/>
+    <TheNavbar/>
 
     <NuxtPage />
 
-    <TheFooter/> -->
+    <TheFooter/>
 
   </div>
 </template>
